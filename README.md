@@ -1,2 +1,2 @@
-# Lead_Book
+# Read_Book
 읽는 책을 간단히 요약정리하는 저장소
